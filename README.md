@@ -11,7 +11,7 @@ This repository contains the code and text files for creating a christmas relate
 1. Clone this repository:
 
 ```bash
-git clone
+git clone https://github.com/Daniel-16/christmas-ascii-art.git
 ```
 
 2. Go to folder directory:
