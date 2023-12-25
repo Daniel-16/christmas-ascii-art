@@ -29,7 +29,7 @@ cd christmas-ascii-art
 cd christmas-ascii-art
 ```
 
-3. Run the any of the script:
+3. Run any of the script:
 
 ```bash
 bash ./snowman.sh
